@@ -1,0 +1,21 @@
+:root {
+    --first-font: font-family: "Roboto", sans-serif;
+    --second-font: font-family: "Raleway", sans-serif;
+    --main-color: #757575;
+    --second-color: #2196F3;
+    --h-color: #212121;
+
+}
+
+body {
+    font-family:"Roboto", sans-serif;
+    color: var(--main-color);
+}
+
+/* ********************************  components  ****************************** */
+
+/* ********************************  header  ****************************** */
+
+/* ********************************  main  ****************************** */
+
+/* ********************************  footer  ****************************** */
