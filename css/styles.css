@@ -65,7 +65,6 @@ body {
 .header-contact-link:hover,
 .header-contact-link:focus {
   color: var(--second-color);
-  cursor: pointer;
 }
 
 /* ********************************  main  ****************************** */
@@ -94,12 +93,12 @@ body {
   border-radius: 4px;
   color: var(--hero-and-city-word-color);
   background-color: var(--second-color);
+  cursor: pointer;
 }
 
 .hero-button:hover,
 .hero-button:focus {
   background-color: #188ce8;
-  cursor: pointer;
 }
 
 /* ********************************  feature  ****************************** */
@@ -146,13 +145,13 @@ body {
   letter-spacing: 0.03em;
   color: var(--h-color);
   background-color: transparent;
+  cursor: pointer;
 }
 
 .buttons:hover,
 .buttons:focus {
   color: var(--hero-and-city-word-color);
   background-color: var(--second-color);
-  cursor: pointer;
 }
 
 .portfolio-heading {
@@ -187,5 +186,4 @@ body {
 .footer-contact-link-city-address:hover,
 .footer-contact-link-city-address:focus {
   color: var(--second-color);
-  cursor: pointer;
 }
