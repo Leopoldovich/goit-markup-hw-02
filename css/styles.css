@@ -1,6 +1,6 @@
 :root {
-    --first-font: font-family: "Roboto", sans-serif;
-    --second-font: font-family: "Raleway", sans-serif;
+    --first-font: "Roboto", sans-serif;
+    --second-font: "Raleway", sans-serif;
     --main-color: #757575;
     --second-color: #2196F3;
     --h-color: #212121;
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family:"Roboto", sans-serif;
+    font-family: var(--first-font);
     color: var(--main-color);
 }
 
