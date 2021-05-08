@@ -91,6 +91,7 @@ body {
   letter-spacing: 0.06em;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  font-family: var(--first-font);
   color: var(--hero-and-city-word-color);
   background-color: var(--second-color);
   cursor: pointer;
@@ -143,6 +144,7 @@ body {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
+  font-family: var(--first-font);
   color: var(--h-color);
   background-color: transparent;
   cursor: pointer;
@@ -172,6 +174,7 @@ body {
 .footer-contact-link {
   font-family: var(--first-font);
   font-size: 14px;
+  font-style: normal;
   line-height: 1.7px;
   letter-spacing: 0.03em;
   /* color: var(--footer-contact-link-color); */
